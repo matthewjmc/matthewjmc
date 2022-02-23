@@ -4,6 +4,9 @@
 ### Interests 
 * Cyber Security
 * Digital Transformation
+### Work Experience
+* IOT Development
+* Cyber Security Analyst
 
 
 ## Tech Stack :computer:
