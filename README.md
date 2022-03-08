@@ -5,8 +5,8 @@
 * Cyber Security
 * Digital Transformation
 ### Work Experience
-* IOT Development
-* Cyber Security Analyst
+* IOT Development Internship
+* Cyber Security Analyst Internship
 
 
 ## Tech Stack :computer:
