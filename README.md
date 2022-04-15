@@ -1,5 +1,5 @@
 # About Me 🤺
-&nbsp;&nbsp;&nbsp; 👨‍🎓 4th Year studying Computer Science at KMITL \
+&nbsp;&nbsp;&nbsp; 👨‍🎓 4th Year studying Computer Engineering at KMITL \
 &nbsp;&nbsp;&nbsp; 💻 Computer Innovation Engineering \
 ### Interests 
 * Cyber Security
